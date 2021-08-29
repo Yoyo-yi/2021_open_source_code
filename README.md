@@ -27,6 +27,7 @@
   任务文件。用于将各功能划分，条例有序集中到Centre中，再由系统进行调度    
   ![Doc](https://github.com/Yoyo-yi/2021_open_source_code/blob/main/Doc/Task.jpg)
   
-
+### 软件框架
+  ![Doc](https://github.com/Yoyo-yi/2021_open_source_code/blob/main/Doc/软件框架.jpg)
 
 
