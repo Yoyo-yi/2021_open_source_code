@@ -37,7 +37,7 @@
   ![Doc](https://github.com/Yoyo-yi/2021_open_source_code/blob/main/Doc/%E9%80%BB%E8%BE%91%E7%BA%BF%E7%A8%8B.jpg)
   
 ### 未来优化的方向
-   未来应该对工程视觉辅助加深研究，让更多简单繁琐的动作半自动化
+   未来应该对工程视觉辅助加深研究及其使用，让更多简单繁琐的动作半自动化
    
 
   
