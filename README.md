@@ -28,6 +28,6 @@
   ![Doc](https://github.com/Yoyo-yi/2021_open_source_code/blob/main/Doc/Task.jpg)
   
 ### 软件框架
-  ![Doc](https://github.com/Yoyo-yi/2021_open_source_code/blob/main/Doc/软件框架.jpg)
+  
 
 
