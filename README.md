@@ -31,7 +31,7 @@
   ![Doc](https://github.com/Yoyo-yi/2021_open_source_code/blob/main/Doc/%E8%BD%AF%E4%BB%B6%E6%A1%86%E6%9E%B6.jpg)
   
 ### 硬件框架
-  ！[Doc](https://github.com/Yoyo-yi/2021_open_source_code/blob/main/Doc/%E5%B7%A5%E7%A8%8B%E6%8E%A5%E7%BA%BF%E6%8B%93%E6%89%91.jpg)
+  ![Doc](https://github.com/Yoyo-yi/2021_open_source_code/blob/main/Doc/%E5%B7%A5%E7%A8%8B%E6%8E%A5%E7%BA%BF%E6%8B%93%E6%89%91.jpg)
   
 ### 未来优化的方向
    未来应该对工程视觉辅助加深研究，让更多简单繁琐的动作半自动化
